@@ -27,3 +27,15 @@ tag: 干货
 
 * ui-router：[https://ui-router.github.io/](https://ui-router.github.io/)
 * ag-grid：[https://www.ag-grid.com/](https://www.ag-grid.com/)
+
+## Sublime Text
+* CSS格式化插件 [CSSComb](https://github.com/csscomb/CSScomb-for-Sublime)
+* 文档注释插件 [DocBlockr](https://sublime.wbond.net/installation)
+* Sublime 主题 [Sublime Theme](https://packagecontrol.io/browse/labels/theme)
+1. Open Package Control: `Preferences -> Package Control`
+2. Select `Package Control: Install Package`
+3. Type `DocBlockr` into the search box and select the package to install it
+
+## Markdown
+* [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32/)
+
